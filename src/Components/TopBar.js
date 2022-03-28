@@ -53,7 +53,7 @@ const TopBar = ({ ContainedButton, ButtonTypography }) => {
 
           <Stack direction="row" spacing={2}>
             <Button
-              href="https://app.i7sistemas.net"
+              href="https://wa.me/5566996553735?text=tenho%20interesse%20no%20i7ticket"
               sx={{
                 borderRadius: "10px",
                 width: "100px",
@@ -67,7 +67,7 @@ const TopBar = ({ ContainedButton, ButtonTypography }) => {
             <ContainedButton
               variant="contained"
               color="primary"
-              href="https://app.i7sistemas.net"
+              href="https://wa.me/5566996553735?text=tenho%20interesse%20no%20i7ticket"
             >
               <ButtonTypography>Contrate agora</ButtonTypography>
             </ContainedButton>

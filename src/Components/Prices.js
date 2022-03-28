@@ -145,7 +145,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
             <ContainedButton
               sx={{ marginTop: "25px", textAlign: "center" }}
               variant="contained"
-              href="https://app.i7sistemas.net"
+              href="https://wa.me/5566996553735?text=tenho%20interesse%20no%20i7ticket"
               color="success"
             >
               <ButtonTypography> Contrate agora </ButtonTypography>
@@ -283,7 +283,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
                 textAlign: "center",
               }}
               variant="contained"
-              href="https://app.i7sistemas.net"
+              href="https://wa.me/5566996553735?text=tenho%20interesse%20no%20i7ticket"
               color="warning"
             >
               <ButtonTypography sx={{ color: "#fff" }}>
@@ -390,7 +390,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
             <ContainedButton
               sx={{ marginTop: "25px", textAlign: "center" }}
               variant="contained"
-              href="https://app.i7sistemas.net"
+              href="https://wa.me/5566996553735?text=tenho%20interesse%20no%20i7ticket"
               color="danger"
             >
               <ButtonTypography

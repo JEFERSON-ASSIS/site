@@ -13,7 +13,7 @@ import Page from "./Page";
 import { styled } from "@mui/system";
 
 import { Facebook, Instagram, LinkedIn } from "@mui/icons-material";
-import whiteIcon from "./assets/whiteIcon.png";
+import whiteIcon from "./assets/whiteIcon2.png";
 
 const ContainedButton = styled(Button)({
   borderRadius: "10px",
