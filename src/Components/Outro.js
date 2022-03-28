@@ -48,7 +48,7 @@ const Outro = ({ TextTypography, ContainedButton, ButtonTypography }) => {
           <ContainedButton
             variant="contained"
             color="primary"
-            href="https://newapp.i7sistemas.com.br"
+            href="https://app.i7sistemas.net"
           >
             <ButtonTypography>Teste agora</ButtonTypography>
           </ContainedButton>

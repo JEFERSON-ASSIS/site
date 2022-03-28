@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Button, Stack, Typography } from "@mui/material";
 
-import icon from "../assets/icon.png";
+import icon from "../assets/icon2.png";
 
 const TopBar = ({ ContainedButton, ButtonTypography }) => {
   return (
@@ -53,7 +53,7 @@ const TopBar = ({ ContainedButton, ButtonTypography }) => {
 
           <Stack direction="row" spacing={2}>
             <Button
-              href="https://app.whaticket.com/login"
+              href="https://app.i7sistemas.net"
               sx={{
                 borderRadius: "10px",
                 width: "100px",
@@ -67,7 +67,7 @@ const TopBar = ({ ContainedButton, ButtonTypography }) => {
             <ContainedButton
               variant="contained"
               color="primary"
-              href="https://newapp.i7sistemas.com.br"
+              href="https://app.i7sistemas.net"
             >
               <ButtonTypography>Contrate agora</ButtonTypography>
             </ContainedButton>

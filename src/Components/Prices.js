@@ -145,7 +145,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
             <ContainedButton
               sx={{ marginTop: "25px", textAlign: "center" }}
               variant="contained"
-              href="https://newapp.i7sistemas.com.br"
+              href="https://app.i7sistemas.net"
               color="success"
             >
               <ButtonTypography> Contrate agora </ButtonTypography>
@@ -283,7 +283,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
                 textAlign: "center",
               }}
               variant="contained"
-              href="https://newapp.i7sistemas.com.br"
+              href="https://app.i7sistemas.net"
               color="warning"
             >
               <ButtonTypography sx={{ color: "#fff" }}>
@@ -390,7 +390,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
             <ContainedButton
               sx={{ marginTop: "25px", textAlign: "center" }}
               variant="contained"
-              href="https://newapp.i7sistemas.com.br"
+              href="https://app.i7sistemas.net"
               color="danger"
             >
               <ButtonTypography

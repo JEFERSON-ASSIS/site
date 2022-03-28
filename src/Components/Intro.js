@@ -45,7 +45,7 @@ const Intro = ({
               toda a comunicação com os seus clientes.
             </TextTypography>
             <ContainedButton
-              href="https://newapp.i7sistemas.com.br"
+              href="https://app.i7sistemas.net"
               variant="contained"
               color="primary"
             >
