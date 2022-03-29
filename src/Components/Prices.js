@@ -254,7 +254,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
             <PriceListStack direction="row">
               <img src={lightGreenCheck} alt=""></img>
               <TextTypography sx={{ marginRight: "auto" }}>
-                2 conexões com whatsapp
+                1 conexão com whatsapp
               </TextTypography>
             </PriceListStack>
             <PriceListStack direction="row">
@@ -343,7 +343,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
               }}
             >
               <PriceTypography sx={{ color: "#25385C" }}>
-                R$ 699,00 + Setup Inicial
+                R$ 299,00 + Setup Inicial
               </PriceTypography>
               <PriceTimeTypography sx={{ color: "#25385C" }}>
                 /mês
@@ -365,7 +365,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
             <PriceListStack direction="row">
               <img src={darkCheck} alt=""></img>
               <TextTypography sx={{ marginRight: "auto" }}>
-                3 conexões com Whatsapp
+                2 conexões com Whatsapp
               </TextTypography>
             </PriceListStack>
             <PriceListStack direction="row">
