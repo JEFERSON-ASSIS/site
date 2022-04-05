@@ -145,7 +145,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
             <ContainedButton
               sx={{ marginTop: "25px", textAlign: "center" }}
               variant="contained"
-              href="https://wa.me/5561999449288?text=oi%"
+              href="https://wa.me/5561999449288?text=oi"
               color="success"
             >
               <ButtonTypography> Contrate agora </ButtonTypography>
@@ -283,7 +283,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
                 textAlign: "center",
               }}
               variant="contained"
-              href="https://wa.me/5561999449288?text=oi%"
+              href="https://wa.me/5561999449288?text=oi"
               color="warning"
             >
               <ButtonTypography sx={{ color: "#fff" }}>
@@ -390,7 +390,7 @@ const Prices = ({ TextTypography, ContainedButton, ButtonTypography }) => {
             <ContainedButton
               sx={{ marginTop: "25px", textAlign: "center" }}
               variant="contained"
-              href="https://wa.me/5561999449288?text=oi%"
+              href="https://wa.me/5561999449288?text=oi"
               color="danger"
             >
               <ButtonTypography
