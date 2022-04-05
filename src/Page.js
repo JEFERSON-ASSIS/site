@@ -38,7 +38,8 @@ const Page = ({
         SubtitleTypography={SubtitleTypography}
         TextTypography={TextTypography}
       />
-      <WhaticketPrintScreen />
+      <WhaticketPrintScreen
+       />
       <PlansText TextTypography={TextTypography} />
       <Prices
         TextTypography={TextTypography}
