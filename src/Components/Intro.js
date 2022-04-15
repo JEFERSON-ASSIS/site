@@ -45,7 +45,7 @@ const Intro = ({
               toda a comunicação com os seus clientes.
             </TextTypography>
             <ContainedButton
-              href="https://wa.me/5561999449288?text=oi"
+              href="https://wa.me/5566996553735?text=oi%gostaria%de%saber%sobre%o%I7ticket"
               variant="contained"
               color="primary"
             >

@@ -6,7 +6,7 @@ import whaticketPrint from "../assets/whaticketPrint3.png";
 
 const WhaticketPrintScreen = () => {
   return (
-    <Box sx={{ paddingBottom: "100px", display: { xs: "none", xl: "block" } }}>
+    <Box sx={{ paddingBottom: "90px", display: { xs: "none", xl: "block" } }}>
       <img src={whaticketPrint} alt=""></img>
     </Box>
   );
